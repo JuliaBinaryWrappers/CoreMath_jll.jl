@@ -1,0 +1,94 @@
+[[CoreMath]]
+arch = "aarch64"
+git-tree-sha1 = "c1f13ee52e65314fdda2181d8e9c19bcc3d57eee"
+os = "macos"
+
+    [[CoreMath.download]]
+    sha256 = "fefc9722fb915e24fa7ebd47e26bd86c73c7adb09dd21957f5e3e5241fdfbbff"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[CoreMath]]
+arch = "aarch64"
+git-tree-sha1 = "58d3bfd03680ed92963a1b55e649dc88076fed0b"
+libc = "glibc"
+os = "linux"
+
+    [[CoreMath.download]]
+    sha256 = "49f2b169948dd4e109915c5c8b463d9f9518a212baffd2d131ac015721900327"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[CoreMath]]
+arch = "aarch64"
+git-tree-sha1 = "5cb38a21129aceee016534eec2e97e904736c746"
+libc = "musl"
+os = "linux"
+
+    [[CoreMath.download]]
+    sha256 = "e450a43f8bec4c69989bb0515c5e32d7a4df2d9205021abbd45f4b959f0434f2"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.aarch64-linux-musl.tar.gz"
+[[CoreMath]]
+arch = "aarch64"
+git-tree-sha1 = "8541a0b222231990ce753a16eb2b8f2120388e2b"
+os = "freebsd"
+
+    [[CoreMath.download]]
+    sha256 = "d6f6d42916847c3f332390e6822f84bcde52d9a77e62be08b65b94eed1dec6fc"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.aarch64-unknown-freebsd.tar.gz"
+[[CoreMath]]
+arch = "powerpc64le"
+git-tree-sha1 = "b61c0f7909357e243dafe21d72ffc47eecb94f39"
+libc = "glibc"
+os = "linux"
+
+    [[CoreMath.download]]
+    sha256 = "d752f773b75b79e4717221691b27a2328591be5db4671effd44e6ac7703fcb7d"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[CoreMath]]
+arch = "riscv64"
+git-tree-sha1 = "19bae9681ca80e0909dcfa20ab9afce906584cbe"
+libc = "glibc"
+os = "linux"
+
+    [[CoreMath.download]]
+    sha256 = "122cb1f613d08ad46b0283cdbcbcff6babbe011fe62f342dc20a4101ba6068df"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.riscv64-linux-gnu.tar.gz"
+[[CoreMath]]
+arch = "x86_64"
+git-tree-sha1 = "24ba7240f38bd0c2294d2b4180c06ffa0ee37cdd"
+os = "macos"
+
+    [[CoreMath.download]]
+    sha256 = "e9588c688f92b168c63264fbe7ea4f730d5d18ac0544cd43b0ec7510ca8727e0"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[CoreMath]]
+arch = "x86_64"
+git-tree-sha1 = "341f73e5b6b113ac55e8fa5bd730812ab3733864"
+libc = "glibc"
+os = "linux"
+
+    [[CoreMath.download]]
+    sha256 = "5cd489f94eff4cd77f1c30aae5953bcd1c1c52be816f1c581f73f8bf0e4f3873"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[CoreMath]]
+arch = "x86_64"
+git-tree-sha1 = "882934ab8b79bf21b6841921b4e410ee6090932b"
+libc = "musl"
+os = "linux"
+
+    [[CoreMath.download]]
+    sha256 = "8db59867152b32a70a54bec7ae2f29db9edc859f6d3fc4710cd44ce76c66bddb"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.x86_64-linux-musl.tar.gz"
+[[CoreMath]]
+arch = "x86_64"
+git-tree-sha1 = "5f5251039ba4c51af8804673946398d50700110c"
+os = "freebsd"
+
+    [[CoreMath.download]]
+    sha256 = "c670517755104a106d57f0951fd9f3167b0bb2acee9c36d3890c723dae670366"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[CoreMath]]
+arch = "x86_64"
+git-tree-sha1 = "6164a5a34283c7d1f2e919f7038705177859635d"
+os = "windows"
+
+    [[CoreMath.download]]
+    sha256 = "8941a0b00e6b7d3604c7bf26a360e40961623b65e4d9f00642a263f26c30469e"
+    url = "https://github.com/JuliaBinaryWrappers/CoreMath_jll.jl/releases/download/CoreMath-v0.1.0+0/CoreMath.v0.1.0.x86_64-w64-mingw32.tar.gz"
